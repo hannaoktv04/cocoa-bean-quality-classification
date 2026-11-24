@@ -57,10 +57,3 @@ npm run dev
 ```
 
 Buka <http://localhost:3000>.
-
-## Catatan
-
-- Model .keras **tidak disertakan** di repo. Taruh file hasil training
-  Anda di `backend/app/model/cocoa_dryness_mobilenetv3.keras`.
-- Form kontak (ContactSection) saat ini hanya UI — tidak mengirim
-  pesan ke server. Hubungkan ke endpoint sendiri bila diperlukan.
